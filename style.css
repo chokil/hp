@@ -34,7 +34,7 @@ nav li{
 	float:left;
 	margin-top:20px;
 	margin-right:40px;
-	margin-bottom:20px;	
+	margin-bottom:20px;
 }
 .last-item{
 	margin-right:0;
@@ -95,4 +95,17 @@ footer{
 	text-align:center;
 	color:#FFF;
 	padding:40px 0;
+}
+
+footer{
+	margin-top:40px;
+	background-color: #7d0000;
+	text-align:center;
+	color:#FFF;
+	padding:40px 0;
+}
+.toplink{
+	text-align:right;
+	margin-top:20px;
+	margin-right:70px;
 }
